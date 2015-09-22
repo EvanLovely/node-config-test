@@ -1,0 +1,13 @@
+{
+  "name": "node-config-test",
+  "version": "1.0.0",
+  "description": "Just testing out different ways to work with configuration.",
+  "private": true,
+  "main": "test.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "docs": "https://docs.npmjs.com/misc/config",
+  "author": "Evan Lovely",
+  "license": "ISC"
+}
